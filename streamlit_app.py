@@ -1,8 +1,13 @@
 
 import streamlit
-streamlit.title('my parents  new healthy diner')
-streamlit.header('breakfast menu')
-streamlit.text('item1 x')
-streamlit.text('item1 a')
-streamlit.text('item1 c')
 
+streamlit.title('my parents  new healthy diner')
+
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🍞Hard-Boiled Free-Range Egg')
+
+
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
